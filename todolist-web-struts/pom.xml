@@ -51,6 +51,8 @@
                 </exclusion>
             </exclusions>
         </dependency>
+
+        <dependency>
             <groupId>org.apache.struts</groupId>
             <artifactId>struts2-spring-plugin</artifactId>
             <version>${struts2.version}</version>
